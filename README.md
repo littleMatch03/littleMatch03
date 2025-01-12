@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&pause=1000&center=true&vCenter=true&width=1000&height=200&lines=Hi%E2%9C%8C%F0%9F%8F%BB+Welcome%20to%20my%20Github%F0%9F%A6%85)](https://git.io/typing-svg)
 
 <div>
    <h3> 🌱 I’m currently learning ... 🌱 </h3>
@@ -7,8 +7,6 @@
     <li>Large Language Model (LLM)</li>
     <li>Generative AI</li>
     <li>Pytorch & Pytorch Lighting</li>
-    <li>Next.js</li>
-    <li>Spring boot</li>
     <li>Terraform</li>
     <li>Kubeflow</li>
     <li>TensorRT</li>
