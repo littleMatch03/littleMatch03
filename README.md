@@ -121,6 +121,6 @@
 <div align = "center">
 	<details>
 		<summary> 💚 My Stats 💚 </summary>
-	 	<img width="400" src="https://raw.githubusercontent.com/littleMatch03/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+	 	[(https://github-readme-stats.vercel.app/api?username=littleMatch03)]
 	</details>
 </div>
