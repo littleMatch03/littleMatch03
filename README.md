@@ -81,7 +81,7 @@
       <tr>
         <th scope="row">Mobile</th>
         <td align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+          <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
         </td>
       </tr>
       <tr>
@@ -116,4 +116,11 @@
         </td>
       </tr>
     </table>
+</div>
+
+<div align = "center">
+	<details>
+		<summary> 💚 My Stats 💚 </summary>
+	 	<img width="400" src="https://raw.githubusercontent.com/littleMatch03/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+	</details>
 </div>
