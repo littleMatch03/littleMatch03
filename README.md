@@ -52,7 +52,7 @@
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-	  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
 	  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
           <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -67,6 +67,8 @@
         <td align="center">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=MySQL&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white"/>
         </td>
       </tr>
       <tr>
@@ -79,8 +81,7 @@
       <tr>
         <th scope="row">Mobile</th>
         <td align="center">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React Native&logoColor=black"/>
         </td>
       </tr>
       <tr>
