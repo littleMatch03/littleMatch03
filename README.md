@@ -121,6 +121,6 @@
 <div align = "center">
 	<details>
 		<summary> 💚 My Stats 💚 </summary>
-	 	[(https://github-readme-stats.vercel.app/api?username=littleMatch03)]
+	 	<img src="https://github-readme-stats.vercel.app/api?username=littleMatch03" />
 	</details>
 </div>
