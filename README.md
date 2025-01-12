@@ -67,8 +67,8 @@
         <td align="center">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=MySQL&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
         </td>
       </tr>
       <tr>
@@ -81,7 +81,7 @@
       <tr>
         <th scope="row">Mobile</th>
         <td align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React Native&logoColor=black"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
         </td>
       </tr>
       <tr>
