@@ -115,10 +115,3 @@
       </tr>
     </table>
 </div>
-
-<div align = "center">
-	<details>
-		<summary> 💚 My Stats 💚 </summary>
-	 	<img src="https://github-readme-stats.vercel.app/api?username=littleMatch03" />
-	</details>
-</div>
